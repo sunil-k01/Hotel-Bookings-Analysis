@@ -1,5 +1,5 @@
 # Hotel Booking Data Analysis Project
-![Hotel Booking Data Analysis](./hotel bookingjpeg.jpeg)
+![Hotel Booking Data Analysis](./hotel%20bookingjpeg.jpeg)
 
 ## Overview
 
